@@ -54,7 +54,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Fork sağlamanız durumunda repo URL'nizi buraya ekleyin. Varsayılan olarak kendi repo adresimiz eklidir.",
-      "value": "https://github.com/Quiec/AsenaUserBot",
+      "value": "https://github.com/must4f/AsenaUserBot",
       "required": true
     },
     "COUNTRY": {
