@@ -14,7 +14,7 @@
             "UNIBORG3": "`3. Tip UniBorg tespit edildi...`",
             "UNIBORG_NOT_FOUND": "`UniBorg plugini tespit edilmedi.`",
             "PLIST_CHECKING": "`Pluginler getiriliyor...`",
-            "PLIST": "**İşte Yüklenen Pluginler:**",
+            "PLIST": "**⚙️İşte Yüklenen Pluginler:**",
             "TEMP_PLUGIN": "`Pluginleriniz kalıcı yüklenmiyor bu yüzden liste getiremem.`",
             "REPLY_TO_FILE": "`Yüklenecek modül dosyasına yanıt verin.`",
             "NOT_FOUND_PLUGIN_CHANNEL": "`Pluginlerin kalıcı olması için Id ayarlamamışsınız. Pluginleriniz yeniden başlatınca silinebilir!`",
@@ -29,12 +29,12 @@
             "PREMOVE_DELETING": "`Plugin Siliniyor...`",
             "ALREADY_DELETED": "`Plugin dosyası zaten silinmiş.`",
             "NOT_FOUND_PLUGIN": "`Böyle bir plugin belki vardı, belki de yoktu. Ama şu an olmadığı kesin.`",
-            "PLUG_DELETED": "`Plugin başarıyla silindi!` **İşlemlerin uygulanabilmesi için yeniden başlatmanız gerekmetedir.**",
-            "ASENA_PLUGIN_CAPTION": "Bu bir [Asena](https://t.me/AsenaUserBot) pluginidir."
+            "PLUG_DELETED": "`Plugin başarıyla silindi!` **İşlemlerin uygulanabilmesi için yeniden başlatmanız gerekmektedir.**",
+            "ASENA_PLUGIN_CAPTION": "Bu bir Asena pluginidir."
         },
         
         "__asena": {
-            "NEED_PLUGIN": "Lütfen bir Asena modülü adı belirtin.",
+            "NEED_PLUGIN": "Lütfen bir Asena modülü adı belirtin.🐺",
             "NEED_MODULE": "Lütfen hangi Asena modülü için yardım istediğinizi belirtin !!\nKullanım: .asena <modül adı>"
         },
 
@@ -58,12 +58,12 @@
             "ALREADY_GBANNED": "`Hata! Kullanıcı zaten küresel olarak yasaklanmış.`",
             "GBANNED_REASON": "`Kullanıcı küresel olarak yasaklandı!`\n**Nedeni:**",
             "GBANNED": "`Kullanıcı küresel olarak yasaklandı!`",
-            "GBAN_TEXT": "```Sen kötü birisisin! Daha fazla seni burda tutmuyacağım. Yasaklandın!```",
+            "GBAN_TEXT": "```Sen kötü birisisin ve burda olmayı haketmiyorsun! Yasaklandın!```",
             "UNGBANNING": "```Küresel yasaklama kaldırılıyor...```",
             "NO_BANNED": "`Hata! Muhtemelen kullanıcının yasaklaması yok.`",
             "UNGBANNED": "```Kullanıcının küresel yasaklaması kalktı```",
             "PROMOTING": "`Yetkilendiriliyor...`",
-            "SUCCESS_PROMOTE": "`Başarıyla yetkilendirildi!`",
+            "SUCCESS_PROMOTE": "`Başarıyla yetkilendirildi! bide full yt verdim hee!`",
             "UNPROMOTING": "`Yetki düşürülüyor...`",
             "UNPROMOTE": "`Yetki başarıyla düşürüldü!`",
             "NO_PERM_BUT_BANNED": "`Mesaj atma hakkım yok! Ama yine de kullanıcı yasaklandı!`",
@@ -103,10 +103,10 @@
         },
 
         "afk": {
-            "REASON": "Sebep",
-            "AFK": "Sahibim şu an AFK.",
-            "IM_AFK": "Artık AFK'yım.",
-            "IM_NOT_AFK": "Artık AFK değilim."
+            "REASON": "ℹ️ :",
+            "AFK": "Sahibim şu anda klavyeden uzakta .",
+            "IM_AFK": "Artık klavyeden uzaktayım.",
+            "IM_NOT_AFK": "Tekrar klavye başına geçtim. Umarım sahibim bordo klavyeli değildir!"
         },
 
         "auto": {
@@ -388,14 +388,14 @@
         },
 
         "pmpermit": {
-            "BLOCKED": "`Sen benim sahibimin PM'ini spamlıyorsun, bu benim hoşuma gitmiyor.`\n`Şu an ENGELLENDIN ve SPAM olarak bildirildin, ileride değişiklik olmadığı sürece..`",
+            "BLOCKED": "`🃏 Dostum ben sahibimi seviyorum ve onu spamlamana izin vermeyeceğim.`\n\n`🚷Şu an da seni sonsuza dek engelliyorum` \n\n` ✌🏾Tabiki sahibim seni iyi biri olarak görüp engeli açmazsa..`",
             "ERROR": "PM sayacı kafayı yemiş gibi, botu lütfen yeniden başlatın.",
             "BOTLOG_BLOCKED": " kişisi sadece bir hayal kırıklığı idi. PM'ni meşgul ettiği için engellendi.",
             "NOTIFOFF": "`PM izni olmayan kullanıcıların bildirimleri sessize alındı!`",
             "NOTIFON": "`PM izni olmayan kullanıcıarın bildirim göndermesine izin verildi!`",
-            "ALREADY": "`Kullanıcı halihazırda PM gönderebiliyor olmalıdır.`",
+            "ALREADY": "`Kullanıcıya daha önceden mesaj gönderme izni vermiştim. Huh size demiyorum sadece sahibimle konuşuyorum hskshsj`",
             "DISAPPROVE": "kişisinin PM atma izni kaldırıldı.",
-            "UNBLOCKED": "Engelin kaldırıldı."
+            "UNBLOCKED": "Engelin kaldırıldı. Belki aylar belki yıllar bekledin ama o kutsal gün geldi çattı.."
         },
 
         "profile": {
@@ -582,13 +582,13 @@
         },
 
         "updater": {
-            "DETECTING": "`Güncellemeler denetleniyor...`",
+            "DETECTING": "`Güncellemeler denetleniyor🔍...`",
             "FAILED": "Güncelleme başarısız oldu! Bazı sorunlarla karşılaştık.",
             "NOT_FOUND": "klasörü bulunamadı.",
             "GIT_ERROR": "Git hatası!",
             "NOT_GIT": "klasörü bir git reposu gibi görünmüyor. \nFakat bu sorunu .update now komutuyla botu zorla güncelleyerek çözebilirsin.",
             "INVALID_BRANCH": "**[UPDATER]:**` Galiba Asena botunu modifiye ettin ve kendi branşını kullanıyorsun.\nBu durum güncelleyicinin kafasını karıştırıyor,\nGüncelleme nereden çekilecek?\nLütfen Asena botunu resmi repodan kullan.`",
-            "UPDATE": "\n`Botun` **tamamen güncel!** `Branch:` **{}**\n",
+            "UPDATE": "\n`Dostum botun` **tamamen güncel!** `Branch:` **{}**\n",
             "WAS_UPDATE": "**{} için yeni güncelleme mevcut!\n\nDeğişiklikler:**\n`{}`",
             "BIG": "`Değişiklik listesi çok büyük, dosya olarak görüntülemelisin.`",
             "DO_UPDATE": "`Güncellemeyi yapmak için \".update now\" komutunu kullan.`",
